@@ -1,0 +1,20 @@
+
+	THE FLIGHTS AVAILABLE ARE:-
+
+
+   FROM       |      DEPARTURE             TO               ARRIVAL
+--------------|--------------------|------------------|------------------
+	      |                    |                  |
+   KOLKATA    |        10:00       |     MUMBAI       |      13:00
+	      |                    |                  |
+	      |                    |                  |
+   KOLKATA    |        23:00       |     CHENNAI      |      02:20
+	      |                    |                  |
+	      |                    |                  |
+   KOLKATA    |        13:15       |     JAIPUR       |      16:45
+	      |                    |                  |
+	      |                    |                  |
+   KOLKATA    |        18:00       |     LUCKNOW      |      01:50
+	      |                    |                  |
+	      |                    |                  |
+   KOLKATA    |        20:30       |     DELHI        |      23:10
